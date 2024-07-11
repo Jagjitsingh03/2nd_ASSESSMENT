@@ -1,3 +1,82 @@
+# Assessment Smart Contract
+This project involves creating and deploying a smart contract called Assessment that allows for depositing and withdrawing funds, transferring ownership, and pausing/unpausing the contract.
+
+# Description
+The Assessment smart contract is written in Solidity and includes the following functionalities:
+
+Depositing funds
+Withdrawing funds
+Transferring ownership
+Pausing and unpausing the contract
+This contract is deployed and interacted with using a React front-end application.
+
+# Getting Started
+## Prerequisites
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Starter Next/Hardhat Project
 
 After cloning the GitHub repository, follow these steps to get the code running on your computer:
